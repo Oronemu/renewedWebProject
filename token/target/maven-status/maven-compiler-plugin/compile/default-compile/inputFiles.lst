@@ -1,0 +1,14 @@
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/infrastructure/token/TokenIssuer.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/infrastructure/jms/TokenSender.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/application/token/ITokenService.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/infrastructure/token/TokenValidator.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/infrastructure/config/Config.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/infrastructure/builder/Built.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/application/token/Token.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/infrastructure/builder/Builder.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/application/token/ISender.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/infrastructure/token/TokenService.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/application/token/IToken.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/infrastructure/token/TokenKey.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/infrastructure/config/CorsFilter.java
+/Users/ivanrovkov/Desktop/Web/token/src/main/java/web/infrastructure/jms/TokenListener.java

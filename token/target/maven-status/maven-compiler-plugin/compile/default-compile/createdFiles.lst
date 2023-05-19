@@ -1,0 +1,14 @@
+web/application/token/Token.class
+web/infrastructure/token/TokenKey.class
+web/infrastructure/jms/TokenListener.class
+web/application/token/ITokenService.class
+web/infrastructure/builder/Built.class
+web/infrastructure/token/TokenValidator.class
+web/application/token/ISender.class
+web/infrastructure/token/TokenIssuer.class
+web/infrastructure/config/Config.class
+web/infrastructure/builder/Builder.class
+web/infrastructure/jms/TokenSender.class
+web/infrastructure/config/CorsFilter.class
+web/infrastructure/token/TokenService.class
+web/application/token/IToken.class
